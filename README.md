@@ -1,4 +1,7 @@
 # Lab2_comp2_progra
+FRANCISCA DEL CARMEN BONILLA ARGUETA
+MADELINE BRUNELLA MEJIA MEJIA
+FREDDY SAMUEL VASQUEZ ALVAREZ
 
 ¿De qué forma manejaste el login de usuarios? Explica con tus palabras porque en tu
 página funciona de esa forma.
