@@ -24,8 +24,8 @@ guardan datos temporalmente mientras el programa se ejecuta.
 justifique la elección del tipo de dato para cada uno.
 R//  Descripción de tablas
 Tabla: usuarios
-id → INT (identificador único)
-correo → VARCHAR(255) (correo del usuario, texto corto)
-password → VARCHAR(8) (contraseña)
+id → INT (identificador único).
+correo → VARCHAR(255) (correo del usuario, texto corto).
+password → VARCHAR(8) (contraseña).
 
-Se usa VARCHAR porque son datos de texto y se usa INT para números
+Se usa VARCHAR porque son datos de texto y se usa INT para números.
