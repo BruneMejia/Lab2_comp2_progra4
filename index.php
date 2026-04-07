@@ -21,9 +21,15 @@ $_SESSION['pagina_mostrada'] = true;
 <head>
     <meta charset="UTF-8">
     <title>Bienvenido</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Haz entrado con exito a la SFM company c:</h1>
-    <p>Bienvenido, <?php echo htmlspecialchars($_SESSION['usuario']); ?>.</p>
+    <div class="page-wrapper">
+        <div class="welcome-card">
+            <h1>Haz entrado con éxito a la SFM company c:</h1>
+            <p class="subtitle">¡Tu sesión fue iniciada correctamente!</p>
+            <p class="welcome-text">Bienvenido, <span><?php echo htmlspecialchars($_SESSION['usuario']); ?></span>.</p>
+        </div>
+    </div>
 </body>
 </html>
